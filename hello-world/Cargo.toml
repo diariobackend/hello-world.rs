@@ -1,5 +1,4 @@
 [package]
-
 name = "hello_world"
-version = "0.0.1"
-authors = [ "Martins Giovanni giovannimartins2000@gmail.com" ] 
+version = "0.1.0"
+authors = ["Martins Giovanni <giovannimartins2000@gmail.com>"]
