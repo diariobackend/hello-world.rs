@@ -1,2 +1,3 @@
-# rust-learning
-My run to learn Rust
+# Rust Learning.
+
+My run to learn Rust.
